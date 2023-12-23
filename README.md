@@ -3,7 +3,6 @@
 </h1>
 <h3 align="center">Masters-qualified specializing in Genetics & Human Genomics</h3>
 
-
 <div align="center"> 
   <a href="dr.domino2016@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
@@ -15,22 +14,13 @@
 
 <br> 
 
+Dedicated and results-driven Graduate in Genetics and Genomics with a proven track record of maintaining rigorous projects and data analysis. Skilled in executing complex molecular assays, conducting accurate product sampling, and ensuring seamless patient reports. As well as computer analytics for biotech/bioinformatics.
 
-<!--
-**IDrDomino/IDrDomino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 I’m currently working on **Python Projects**
+- 🌱 I’m currently learning **Machine Learning and AI**
+- 💬 Ask me about **Python**
+- 📫 How to reach me: dr.domino2016@gmail.com
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
